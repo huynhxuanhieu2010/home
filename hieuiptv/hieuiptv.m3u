@@ -39,6 +39,9 @@ https://tv.truyenhinh.click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh
 https://tv.nknews.org/tvdash/stream.mpd
 #https://tv.nknews.org/tvhls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-logo="" group-title="🇨🇳| Trung Quốc", 青海卫视
+http://stream.qhbtv.com/qhws/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="🇰🇵| Triều Tiên" type="radio",평양FM방송
 https://listen7.myradio24.com/69366
 #EXTINF:0 tvg-id="ext" group-title="🇰🇵| Triều Tiên" type="radio",조선의 소리 - Russian
