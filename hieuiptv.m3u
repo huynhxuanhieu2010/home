@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Campuchia" group-logo="", Apsara TV11
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Campuchia" group-logo="", Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
@@ -11,6 +12,7 @@ http://43.252.18.195:5080/live/streams/ctntv.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Campuchia" group-logo="", CTV9
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Campuchia" group-logo="", Fresh News
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Campuchia" group-logo="", Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
