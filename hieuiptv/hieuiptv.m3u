@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="" group-logo="",
+
+#--- ONNA Network ---#
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi1
+http://server.priterytivi.com/oni/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi2
+https://viettel.khanggtivi.xyz/live/oni2/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi3
+https://viettel.khanggtivi.xyz/live/oni3/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi5
+https://viettel.khanggtivi.xyz/live/oni5/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi7
+https://viettel.khanggtivi.xyz/live/oni7meonhii/index.m3u8
+
+#--- Kubo Network ---#
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Kubo Network" group-logo="", KuboLive
+#EXTVLCOPT:http-user-agent=KuboLive/2.1
+http://khanggtivi.xyz/live/P-NC0KCYzfK8XsLKUOiRaA/1746633870/kubolive/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Kubo Network" group-logo="", KuboLive 2
+#EXTVLCOPT:http-user-agent=KuboLive/2.1(v2)
+#http://server.priterytivi.com/kubotv/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Kubo Network" group-logo="", KuboCast
+#EXTVLCOPT:http-user-agent=KuboLive/2.1(v2)
+http://khanggtivi.xyz/live/dFd6k4suRqiOCicp5VEWVA/1746633870/kubocast/index.m3u8
+
+#--- Hoangducanh Live ---#
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 1
+https://rg.hoangducanh.site/live1
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 2
+https://rg.hoangducanh.site/live2
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 3
+https://rg.hoangducanh.site/live3
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 4
+https://rg.hoangducanh.site/live4
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 5
+https://rg.hoangducanh.site/live5
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 6
+https://rg.hoangducanh.site/live6
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 7
+https://rg.hoangducanh.site/live7
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 8
+https://rg.hoangducanh.site/live8
