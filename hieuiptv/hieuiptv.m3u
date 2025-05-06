@@ -5,13 +5,13 @@
 #--- ONNA Network ---#
 #EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi1.png" group-title="ONNA Network" group-logo="", ONi1
 http://server.priterytivi.com/oni/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi2.png" group-title="ONNA Network" group-logo="", ONi2
 https://viettel.khanggtivi.xyz/live/oni2/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi3.png" group-title="ONNA Network" group-logo="", ONi3
 https://viettel.khanggtivi.xyz/live/oni3/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi5
+#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi5.png" group-title="ONNA Network" group-logo="", ONi5
 https://viettel.khanggtivi.xyz/live/oni5/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="ONNA Network" group-logo="", ONi7
+#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi7.png" group-title="ONNA Network" group-logo="", ONi7
 https://viettel.khanggtivi.xyz/live/oni7meonhii/index.m3u8
 
 #--- Kubo Network ---#
