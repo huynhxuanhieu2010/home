@@ -42,3 +42,15 @@ https://rg.hoangducanh.site/live6
 https://rg.hoangducanh.site/live7
 #EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 8
 https://rg.hoangducanh.site/live8
+
+
+
+
+
+#--- Cát Lâm ---#
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Cát Lâm" group-logo="", CRT市民生活
+https://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8?zbid=1484002802&tpid=1742621406
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Cát Lâm" group-logo="", CRT文旅体育
+https://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8?zbid=1484002802&tpid=553548293
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Cát Lâm" group-logo="", CRT综合
+https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8?zbid=1484002802&tpid=1350688141
