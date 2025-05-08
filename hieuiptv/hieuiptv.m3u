@@ -61,3 +61,7 @@ https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8?zbid=1484002802&tpid
 #EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Cát Lâm" group-logo="", TTV-1 洮南
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream5.jlntv.cn/tn/sd/live.m3u8
+
+#--- Thiên Tân ---#
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="" group-logo="", 滨海2
+https://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
