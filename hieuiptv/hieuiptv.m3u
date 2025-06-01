@@ -65,3 +65,9 @@ https://stream5.jlntv.cn/tn/sd/live.m3u8
 #--- Thiên Tân ---#
 #EXTINF:0 tvg-id="ext" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/py17lz7u47wx7l77kwwxu/1746685808081.png?rlkey=dnqo6e092y4aa80vm6ibsmyyd&st=nmn8fygm&dl=1" group-title="Thiên Tân" group-logo="", 滨海2
 https://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Haiti" group-logo="", Haiti News Channel
+https://haititivi.com/website/haitinews/index.fmp4.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Haiti" group-logo="", Tele Metropole
+https://live20.bozztv.com/dvrfl03/hdirect/hdirect-telemetrolple2/index.m3u8
