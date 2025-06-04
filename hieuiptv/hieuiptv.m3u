@@ -43,7 +43,8 @@ https://rg.hoangducanh.site/live7
 #EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 8
 https://rg.hoangducanh.site/live8
 
-
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Địa phương" group-logo="", Hà Nội 2 4K
+http://183.81.70.16:9876/udp/225.1.1.109:30120
 
 
 
