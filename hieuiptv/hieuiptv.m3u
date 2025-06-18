@@ -1,74 +1,9 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="" group-logo="",
-
-#--- ONNA Network ---#
-#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi1.png" group-title="ONNA Network" group-logo="", ONi1
-http://server.priterytivi.com/oni/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi2.png" group-title="ONNA Network" group-logo="", ONi2
-https://viettel.khanggtivi.xyz/live/oni2/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi3.png" group-title="ONNA Network" group-logo="", ONi3
-https://viettel.khanggtivi.xyz/live/oni3/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi5.png" group-title="ONNA Network" group-logo="", ONi5
-https://viettel.khanggtivi.xyz/live/oni5/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://huynhxuanhieu2010.github.io/home/hieuiptv/logo/channel/ONNA Network/ONi7.png" group-title="ONNA Network" group-logo="", ONi7
-https://viettel.khanggtivi.xyz/live/oni7meonhii/index.m3u8
-
-#--- Kubo Network ---#
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Kubo Network" group-logo="", KuboLive
-#EXTVLCOPT:http-user-agent=KuboLive/2.1
-http://khanggtivi.xyz/live/P-NC0KCYzfK8XsLKUOiRaA/1746633870/kubolive/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Kubo Network" group-logo="", KuboLive 2
-#EXTVLCOPT:http-user-agent=KuboLive/2.1(v2)
-#http://server.priterytivi.com/kubotv/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Kubo Network" group-logo="", KuboCast
-#EXTVLCOPT:http-user-agent=KuboLive/2.1(v2)
-http://khanggtivi.xyz/live/dFd6k4suRqiOCicp5VEWVA/1746633870/kubocast/index.m3u8
-
-#--- Hoangducanh Live ---#
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 1
-https://rg.hoangducanh.site/live1
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 2
-https://rg.hoangducanh.site/live2
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 3
-https://rg.hoangducanh.site/live3
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 4
-https://rg.hoangducanh.site/live4
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 5
-https://rg.hoangducanh.site/live5
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 6
-https://rg.hoangducanh.site/live6
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 7
-https://rg.hoangducanh.site/live7
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Hoangducanh Live" group-logo="", Hoangducanh Live 8
-https://rg.hoangducanh.site/live8
-
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Địa phương" group-logo="", Hà Nội 2 4K
-http://183.81.70.16:9876/udp/225.1.1.109:30120
-
-
-
-#--- Sơn Tây ---#
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Sơn Tây" group-logo="", TGTV 新闻综合
-https://p2.vzan.com/slowlive/596867413819827251/live.m3u8
-
-#--- Cát Lâm ---#
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Cát Lâm" group-logo="", CRT市民生活
-https://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8?zbid=1484002802&tpid=1742621406
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Cát Lâm" group-logo="", CRT文旅体育
-https://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8?zbid=1484002802&tpid=553548293
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Cát Lâm" group-logo="", CRT综合
-https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8?zbid=1484002802&tpid=1350688141
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Cát Lâm" group-logo="", TTV-1 洮南
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://stream5.jlntv.cn/tn/sd/live.m3u8
-
-#--- Thiên Tân ---#
-#EXTINF:0 tvg-id="ext" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/py17lz7u47wx7l77kwwxu/1746685808081.png?rlkey=dnqo6e092y4aa80vm6ibsmyyd&st=nmn8fygm&dl=1" group-title="Thiên Tân" group-logo="", 滨海2
-https://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Haiti" group-logo="", Haiti News Channel
-https://haititivi.com/website/haitinews/index.fmp4.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="Haiti" group-logo="", Tele Metropole
-https://live20.bozztv.com/dvrfl03/hdirect/hdirect-telemetrolple2/index.m3u8
+#--- Địa phương ---#
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương" group-logo="", TH Hà Nội 1 HD
+#https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w1699606010_b3128000_slen.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương" group-logo="", TH Hà Nội 2 UHD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_4K
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w890984956.m3u8
