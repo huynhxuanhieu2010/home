@@ -1,4 +1,12 @@
 #EXTM3U
 
-#EXTINF:0, SCTV4K
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="" group-logo=""
+
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV4K
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương" group-logo="", Vĩnh Phúc
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương" group-logo="", Yên Bái
+https://live.yenbaitv.org.vn/hls/livestream.m3u8
