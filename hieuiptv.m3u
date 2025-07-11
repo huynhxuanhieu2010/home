@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV1
+#EXTVLCOPT:http-user-agent=hducanh/1.0.0
+https://rg.hducanh.site/vtv1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV2
+https://rg.hducanh.site/vtv2
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV3
+https://rg.hducanh.site/vtv3
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hducanh.site/vtv4
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5
+#EXTVLCOPT:http-user-agent=hducanh/1.1.0
+https://rg.hducanh.site/vtv5
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://rg.hducanh.site/vtv5tnb
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://rg.hducanh.site/vtv5tn
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hducanh.site/vtv6
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hducanh.site/vtv7
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hducanh.site/vtv8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hducanh.site/vtv9
