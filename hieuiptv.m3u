@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV1 HD
 #EXTVLCOPT:http-user-agent=hducanh/1.0.0
 https://rg.hducanh.site/vtv1
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV2
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV2 HD
 https://rg.hducanh.site/vtv2
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV3
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV3 HD
 https://rg.hducanh.site/vtv3
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV4
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rg.hducanh.site/vtv4
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5 HD
 #EXTVLCOPT:http-user-agent=hducanh/1.1.0
 https://rg.hducanh.site/vtv5
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5 Tây Nam Bộ
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5 Tây Nam Bộ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://rg.hducanh.site/vtv5tnb
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5 Tây Nguyên
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV5 Tây Nguyên HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://rg.hducanh.site/vtv5tn
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV Cần Thơ
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rg.hducanh.site/vtv6
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV7
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rg.hducanh.site/vtv7
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rg.hducanh.site/vtv8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV9
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="VTV", VTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rg.hducanh.site/vtv9
